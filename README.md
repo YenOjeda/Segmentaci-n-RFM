@@ -1,10 +1,10 @@
-PROYECTO SEGMENTACION
+# PROYECTO SEGMENTACION
 
 Segmentación / RFM, Tienda “El Mercado”
 
 En este proyecto realice el  análisis descriptivo y segmentación de clientes mediante RFM para una tienda especializada en productos alimenticios importados llamada El Mercado. 
 
-Resumen/Contexto
+# Resumen/Contexto
 
 El objetivo principal de la segmentación es profundizar en el entendimiento de los clientes, permitiendo a las empresas personalizar sus estrategias de marketing y ventas para satisfacer las necesidades específicas de cada grupo de clientes de manera efectiva, además de identificar patrones comunes y diferencias significativas entre los clientes. 
 
@@ -14,7 +14,7 @@ La estrategia elegida por la tienda es analizar sus ventas y segmentar su base d
 
  Esta estrategia proporcionará a la empresa una ventaja competitiva clave al brindar un profundo entendimiento del comportamiento de compra de sus clientes y permitirá la toma de decisiones estratégicas basadas en datos.
 
-Herramientas Utilizadas
+# Herramientas Utilizadas
 
     •  Google Sheets.
     •  Looker Studio.
